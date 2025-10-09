@@ -1,0 +1,41 @@
+{
+  "baseUrl": "",
+  "list": [
+  {
+    "id": 1,
+    "name": "Royal Traditional",
+    "description": "Elegant traditional design with golden borders and classic typography",
+    "image": "./assets/t_00.png"
+  },
+  {
+    "id": 2,
+    "name": "Modern Minimalist",
+    "description": "Clean and contemporary design perfect for modern couples",
+    "image": "./assets/t_01.png"
+  },
+  {
+    "id": 3,
+    "name": "Floral Romance",
+    "description": "Beautiful floral patterns with soft romantic colors",
+    "image": "./assets/t_02.png"
+  },
+  {
+    "id": 4,
+    "name": "Classic Heritage",
+    "description": "Timeless design inspired by Indian heritage and culture",
+    "image": "./assets/t_03.png"
+  },
+  {
+    "id": 5,
+    "name": "Contemporary Style",
+    "description": "Modern styling with bold typography and geometric elements",
+    "image": "./assets/t_05.png"
+  },
+  {
+    "id": 6,
+    "name": "Minimalist Modern",
+    "description": "Clean design with borders at top with floral bottom corners",
+    "image": "./assets/t_04.png"
+  }
+]
+}
