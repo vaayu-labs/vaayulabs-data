@@ -1,0 +1,89 @@
+{
+    "fullName": "Sahil Kashetwr",
+    "dateOfBirth": "",
+    "timeOfBirth": "",
+    "placeOfBirth": "",
+    "sections": [
+        {
+            "title": "Personal Details",
+            "fields": [
+                {
+                    "label": "Age",
+                    "value": "27 Yr"
+                },
+                {
+                    "label": "Height",
+                    "value": "5.7in"
+                },
+                {
+                    "label": "Education",
+                    "value": "B. Tech "
+                },
+                {
+                    "label": "Occupation",
+                    "value": "Self Employed"
+                },
+                {
+                    "label": "Annual Income",
+                    "value": "100000"
+                },
+                {
+                    "label": "Religion",
+                    "value": "Hindi"
+                },
+                {
+                    "label": "Caste",
+                    "value": "Arya Vaysha"
+                }
+            ]
+        },
+        {
+            "title": "Family Details",
+            "fields": [
+                {
+                    "label": "Father's Name",
+                    "value": "Bhanudas Kashetwar"
+                },
+                {
+                    "label": "Father's Occupation",
+                    "value": "Self Employed"
+                },
+                {
+                    "label": "Mother's Name",
+                    "value": "Usha Kashetwar"
+                },
+                {
+                    "label": "Family Type",
+                    "value": "Nuclear Family"
+                }
+            ]
+        },
+        {
+            "title": "Contact Details",
+            "fields": [
+                {
+                    "label": "City",
+                    "value": "Pune"
+                },
+                {
+                    "label": "State",
+                    "value": "Maharashtra"
+                },
+                {
+                    "label": "Phone",
+                    "value": "+91 8805718388"
+                },
+                {
+                    "label": "Email",
+                    "value": "sahil@vaayulabs.xyz"
+                }
+            ]
+        }
+    ],
+    "profileImage": "blob:http://localhost:3000/7108ebbd-c5eb-4474-8a33-b3edcebfaa09",
+    "galleryImages": [
+        "blob:http://localhost:3000/50553194-a707-454f-870f-43772a7f3e2b",
+        "blob:http://localhost:3000/71196ab4-9bae-4de4-9a65-172f3f6249ff"
+    ],
+    "topTitle": "|| Om Ganeshay Namh ||"
+}
